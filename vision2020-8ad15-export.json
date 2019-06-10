@@ -1,0 +1,141 @@
+{
+  "church" : {
+    "courses" : [ null, {
+      "duration" : "90 mins",
+      "language" : "English",
+      "passages" : {
+        "kqr" : {
+          "title" : "story of god2"
+        }
+      }
+    }, {
+      "duration" : "90 mins",
+      "language" : "Hindi",
+      "passages" : {
+        "kadr" : {
+          "title" : " भगवान की कहानी 1"
+        }
+      }
+    }, {
+      "duration" : 150,
+      "language" : "ಕನ್ನಡ",
+      "passages" : {
+        "-L37oW-LiG0DgaU6Sma1" : {
+          "title" : "ದೇವರ ಕಥೆ"
+        }
+      }
+    } ],
+    "passages" : {
+      "-L37oW-LiG0DgaU6Sma1" : {
+        "lesson" : "ಕಾಣದ ಕಡಲಿಗೆ . ಹಂಬಲಿಸಿದೆ ಮನ"
+      },
+      "kadr" : {
+        "lesson" : "हँसी शरीर के स्वास्थ्य का शुभ सवांद देने वाली है। वह एक साथ ही शरीर और मन को प्रसन्न करती है। पाचन शक्ति बढाती है, रक्त को चलती है और अधिक पसीना लाती है। हँसी एक शक्तिशाली दवा है। एक डॉक्टर कहता है कि वह जीवन कि मीठी मदिरा है। डॉक्टर ह्युड कहता है कि आनंद से बड़कर बहुमूल्य वस्तु मनुष्य के पास और कोई नहीं। कारलाइल एक राजकुमार था। संसार त्यागी हो गया था वह कहता है कि जो जी से हँसता है, वह कभी बुरा नहीं होता। जी से हँसो, तुम्हे अच्छा लगेगा। अपने मित्र को हँसाओ, अव अधिक प्रसन्न होगा। शत्रु को हँसाओ, तुम से कम घर्णा करेगा। एक अनजान को हँसाओ, तुम पर भरोसा करेगा। उदास को हँसाओ, उसका दुःख घटेगा। एक निराश को हँसाओ, उसकी आशा बढेगी। एक बूढ़े को हँसाओ, वह अपने को जवान समझने लगेगा। एक बालक को हँ"
+      },
+      "kqr" : {
+        "lesson" : "Once upon a time a story was there"
+      }
+    },
+    "questions" : {
+      "-L37oW-LiG0DgaU6Sma1" : {
+        "Question1" : {
+          "answer" : "A",
+          "options" : {
+            "A" : "ಓದು",
+            "B" : "ಓಟ",
+            "C" : "ಕೋರಿಕೆ",
+            "D" : "ನೋವು"
+          },
+          "text" : "ಡಿ. ಎನ್. ಶಂಕರ ಬಟ್"
+        },
+        "Question2" : {
+          "answer" : "D",
+          "options" : {
+            "A" : "ವಿಶೇಷ",
+            "B" : "ಹರಿದಾಸ",
+            "C" : "ಕಠಿಣ",
+            "D" : "ಸಂಯುಕ್ತ"
+          },
+          "text" : "ಪೀಠಿಕೆ"
+        }
+      },
+      "kadr" : {
+        "question1" : {
+          "answer" : "C",
+          "options" : {
+            "A" : "आउटडोर गेम खेलना",
+            "B" : "संगीत",
+            "C" : "घूमना'",
+            "D" : "पता नहीं"
+          },
+          "text" : "आपके हॉबी क्या हैं"
+        },
+        "question2" : {
+          "answer" : "A",
+          "options" : {
+            "A" : "VGYUVUJH",
+            "B" : "fycfgcyg",
+            "C" : "CCCYT",
+            "D" : "CHCHGVH"
+          },
+          "text" : "ssre fdtr"
+        }
+      },
+      "kqr" : {
+        "question1" : {
+          "answer" : "B",
+          "options" : {
+            "A" : "Bangalore",
+            "B" : "New Delhi",
+            "C" : "Patna",
+            "D" : "Mangalore"
+          },
+          "text" : "cfdyutghvh"
+        }
+      }
+    },
+    "users" : {
+      "-L37rWO-f96pB6k-U-ux" : {
+        "age" : "j",
+        "email" : "jhhjh",
+        "id" : "-L37rWO-f96pB6k-U-ux",
+        "location" : "hjghghgg",
+        "name" : "jkdfjd",
+        "phoneNo" : "khghhhj"
+      },
+      "EvvpAP9njDY17pYCuYCS76FBEDJ2" : {
+        "age" : "",
+        "email" : "djxhcy",
+        "location" : "",
+        "name" : "cjcc",
+        "phoneNo" : ""
+      }
+    },
+    "video" : {
+      "video1" : {
+        "videoDate" : "17-01-2018",
+        "videoTime" : "4:23 am",
+        "videoTitle" : "Dil Diyan",
+        "videoUrl" : "<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/IecfpL0CgoM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+      },
+      "video2" : {
+        "videoDate" : "16-01-2018",
+        "videoTime" : "3:34 pm",
+        "videoTitle" : "See You Again",
+        "videoUrl" : "<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/RgKAFK5djSk\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+      },
+      "video3" : {
+        "videoDate" : "14-01-2018",
+        "videoTime" : "4:30 pm",
+        "videoTitle" : "Hamain Tumse Pyar Kitna",
+        "videoUrl" : "<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/MOjBWxNa7nM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+      },
+      "video4" : {
+        "videoDate" : "2018-01-13",
+        "videoTime" : "05:09",
+        "videoTitle" : "Swag",
+        "videoUrl" : "<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/xmU0s2QtaEY\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+      }
+    }
+  }
+}
